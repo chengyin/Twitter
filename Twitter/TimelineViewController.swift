@@ -109,7 +109,7 @@ class TimelineViewController:
 
     cell.delegate = self
 
-    if (row <= tweets.count - 5) {
+    if (row == tweets.count - 5 && tweets.count > 19) {
       loadOlderData()
     }
 

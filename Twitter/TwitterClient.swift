@@ -36,8 +36,8 @@ class TwitterClient {
 
   init() {
     oauth = OAuth1Swift(
-      consumerKey:    "Mji8IgxuzZtCevUnTKOiHYlbD",
-      consumerSecret: "vqxpW9zjQp7ltPi7ZjKUrK84DuO2Uh9geQ7VjpTcXBdSFuttWv",
+      consumerKey:    "a8T3dHTEfP8YPsFnAI7psTZJY",
+      consumerSecret: "dvJSidyojibI7IZz4N0i8qCES7w30VE7dE8hzGDG8sFBv0Xf2O",
       requestTokenUrl: "https://api.twitter.com/oauth/request_token",
       authorizeUrl:    "https://api.twitter.com/oauth/authorize",
       accessTokenUrl:  "https://api.twitter.com/oauth/access_token"
