@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (3.4.0)
+  - AlamofireImage (2.4.0):
+    - Alamofire (~> 3.3)
+  - DateTools (1.7.0)
+  - OAuthSwift (0.5.2)
+  - UIImageEffects (0.0.1)
+
+DEPENDENCIES:
+  - AlamofireImage (~> 2.0)
+  - DateTools
+  - OAuthSwift (~> 0.5.0)
+  - UIImageEffects (~> 0.0)
+
+SPEC CHECKSUMS:
+  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
+  AlamofireImage: 87408b652e0f5ae5fe364035f15aea8b9b24c77e
+  DateTools: 53288ee8b905fdc75897a1e6b5cc0144b14cba60
+  OAuthSwift: 1ef042d4362e755e24a78f158d817245641a5d24
+  UIImageEffects: 37b99fa461e4965f332ca82e92f2c22a1075ee84
+
+PODFILE CHECKSUM: 6b5684031f06cd0d7cbed31c9ddc87e559cbf28f
+
+COCOAPODS: 1.0.0
